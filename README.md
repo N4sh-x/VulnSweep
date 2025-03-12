@@ -17,7 +17,7 @@ It detects active hosts, scans ports, tests web servers, and checks for common v
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<username>/VulnSweep.git
+git clone https://github.com/N4sh-x/VulnSweep.git
 ```
 2. Install any required Python dependencies
 3. Ensure all required tools are installed and available in your system's PATH  
