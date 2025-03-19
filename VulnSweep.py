@@ -45,7 +45,7 @@ def print_banner():
  |___/ \_,_//_//_//_//___/ |__,__/ \__/ \__// .__/
                                            /_/  
 
-  StealthScanX - Automated Vulnerability Scanner
+  VulnSweep - Automated Vulnerability Scanner
     """
     print(banner)
 
